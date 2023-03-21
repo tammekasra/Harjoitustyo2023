@@ -13,3 +13,9 @@ I hope this is going alright
 
 
 [komentorivi.txt](https://github.com/tammekasra/Harjoitustyo2023/blob/master/laskarit/komentorivi.txt)
+
+Jostain syystä se ei salli minun kopioida ja liitä sitä normaalisti, lataan myös kuvan siitä - käytän microsoft Ubuntu 22.04:ää ja siksi se ei ehkä salli kopioida ja liitä sitä normaalisti
+
+
+
+[gitlog.txt](https://github.com/tammekasra/Harjoitustyo2023/blob/master/laskarit/gitlog.txt)
